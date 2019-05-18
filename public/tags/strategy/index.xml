@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strategy on Kieran Kilbride-Singh – Remote Product Marketer</title>
+    <link>http://remotekieran.com/tags/strategy/</link>
+    <description>Recent content in Strategy on Kieran Kilbride-Singh – Remote Product Marketer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://remotekieran.com/tags/strategy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why company culture makes or breaks remote work</title>
+      <link>http://remotekieran.com/articles/remote-work/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://remotekieran.com/articles/remote-work/</guid>
+      <description>I spent the last six months working six time zones ahead of the six people on my team. I’ve always put travel as a top priority so I took advantage of my travel-friendly work setup to spend time in Asia.
+The company I work for isn’t a large or fully-remote company like Bufferor Automattic. Out of a team of seven I’m the only one who regularly works remotely for months on end.</description>
+    </item>
+    
+  </channel>
+</rss>

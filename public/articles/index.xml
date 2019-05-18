@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>articles on Kieran Kilbride-Singh – Remote Product Marketer</title>
+    <link>http://remotekieran.com/articles/</link>
+    <description>Recent content in articles on Kieran Kilbride-Singh – Remote Product Marketer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://remotekieran.com/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why company culture makes or breaks remote work</title>
+      <link>http://remotekieran.com/articles/remote-work/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://remotekieran.com/articles/remote-work/</guid>
+      <description>I spent the last six months working six time zones ahead of the six people on my team. I’ve always put travel as a top priority so I took advantage of my travel-friendly work setup to spend time in Asia.
+The company I work for isn’t a large or fully-remote company like Bufferor Automattic. Out of a team of seven I’m the only one who regularly works remotely for months on end.</description>
+    </item>
+    
+    <item>
+      <title>Data: the resource that will power the future</title>
+      <link>http://remotekieran.com/articles/data-new-oil/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://remotekieran.com/articles/data-new-oil/</guid>
+      <description>Image courtesy of The Economist
+&amp;nbsp;
+Ninety percent of the world&amp;rsquo;s data was created in the last two years. That&amp;rsquo;s 2.5 quadrillion bytes of data. For reference, the whole of Wikipedia takes up approximately 45GB of storage - less storage than the cheapest iPhone 8 ships with. As time goes on the amount of data and the rate of generation is only going to increase as more &amp;lsquo;things&amp;rsquo; connect to the internet.</description>
+    </item>
+    
+  </channel>
+</rss>
