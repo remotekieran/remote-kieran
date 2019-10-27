@@ -1,7 +1,7 @@
 ---
 title: "Launching an interoperable IoT chip"
-date: 2018-05-01
-showDate: false
+date: 2015-06-01
+showDate: true
 draft: false
 tags: ["product launch"]
 ---

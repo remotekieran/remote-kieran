@@ -1,7 +1,7 @@
 ---
 title: "Positioning a new global company"
-date: 2018-05-02
-showDate: false
+date: 2015-07-02
+showDate: true
 draft: false
 tags: ["company launch"]
 ---

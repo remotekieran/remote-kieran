@@ -1,7 +1,7 @@
 ---
-title: "Building an analytics SaaS product from scratch"
-date: 2018-05-06
-showDate: false
+title: "Building a SaaS product from scratch"
+date: 2018-02-01
+showDate: true
 draft: false
 tags: ["product strategy", "pricing"]
 ---

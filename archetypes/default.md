@@ -1,6 +1,8 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
+description: ""
 date: {{ .Date }}
-showDate: false
+showDate: true
+image:
+    - /images/image.png
 ---
-
