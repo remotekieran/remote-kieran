@@ -2,7 +2,7 @@
 title: "Maximising revenue, enhancing value"
 date: 2017-05-05
 description: ""
-showDate: true
+showDate: false
 draft: false
 tags: ["product strategy", "pricing"]
 ---
@@ -54,17 +54,17 @@ Customer research had unearthed an inadequate pricing strategy so I took a deepe
 * Large numbers of people hitting the paywall but a conversion rate of less than 1%
 * Healthy visits to the sign up page (different from the paywall) but conversion of less than 1%
 * Of those customers who did pay, monthly churn rates were huge because people were paying once and cancelling before renewal
-* A humungous dropoff of file conversion at the top of the free allowance, suggesting reducing the free conversion allowance wouldn't make any difference to revenue because people would simply chop up their files to the new free limit and convert multiple ones, which was what was already happening
+* Big dropoff of file conversion at the top of the free allowance. This suggested that reducing the free conversion allowance wouldn't make any difference to revenue because people would simply chop up their files to the new free limit and convert multiple ones, which was what was already happening
 
-Based on the analytics data and the multiple jobs I'd created from customer research, I concluded that our current pricing structure wasn't serving our customers and their diverse use cases.
+Based on the analytics data and the use cases I'd discovered from customer research, I concluded that our current pricing structure wasn't serving our customers and their diverse use cases.
 
 ## Forming a hypothesis and increasing revenue
 
-It was clear the product needed a new pricing structure. I hypothesised that we could add a 24 hour pass and an annual tier while raising prices and boosting conversion rates. The new pricing structure:
+I hypothesised that we could add a 24 hour pass and an annual tier while raising prices and boosting conversion rates. The new pricing structure:
 
 - 24-hour pass (same price as the original monthly subscription fee)
 - Monthly subscription (double the original price but grandfathering in existing users)
-- Annual subscription (save 20% on monthly subscription)
+- Annual subscription (save 20% on monthly subscription when paying for a year upfront)
 
 Two hours after the new pricing was live someone bought a 24h pass. Three hours later someone purchased a monthly subscription.
 

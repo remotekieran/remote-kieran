@@ -2,26 +2,28 @@
 title: "Defining and launching an API"
 date: 2017-07-11
 description: "Successful repositioning and price increases had bumped revenue significantly for this SaaS product - but user growth remained stagnant."
-showDate: true
+showDate: false
 draft: false
 tags: ["product strategy", "pricing"]
 ---
 
-Successful [repositioning and price increases](/work/maximising-revenue) had bumped revenue significantly for this [SaaS product](https://sqlizer.io) - but user growth remained stagnant. The low-hanging marketing fruit was eaten and I was working on growth with long-term channels. Long overdue some love from the product team, we set out to find what the product was missing in the eyes of customers and the market.
+Successful [repositioning and price increases](/work/maximising-revenue) had bumped revenue significantly for this [SaaS product](https://sqlizer.io). But new user growth remained stagnant. The low-hanging marketing fruit was gone and I was working on growth with long-term channels.
+
+> Long overdue some love from the product team, we set out to find what the product was missing in the eyes of customers and the market.
 
 ## Step 1: customer research
 
-The product has a diverse set of customers: regular free users, irregular one-off users, regular weekly users, heavy daily users. The product team already had a few ideas of what they wanted to build in order to offer more value. We wanted to ask an open ended question to guage customer desires and see if they matched any of our assumptions. We asked a selection of customers from across these segments and one question:
+The product has a diverse set of customers: regular free users, irregular one-off users, regular weekly users, heavy daily users. The product team already had a few ideas of what they wanted to build in order to offer more value. We wanted to ask an open ended question to guage customer desires and see if they matched any of our assumptions. We asked a selection of customers from across these segments one question:
 
 > What do you wish this product could do that it doesn't now, and why?
 
-Over 60% of respondents said an API would improve their current workflows with the product. Not every product benefits from an API. They're sometimes a "me too" thing, offering little value to customers. But then there are products that seem incomplete without one. Something that turns files into SQL databases is such a product. As it goes, this was one of the product team's ideas too.
+Over 60% of respondents said an API would improve their current workflows with the product. APIs are sometimes a "me too" thing, offering little value to customers. But some products seem incomplete without one. Something that turns files into SQL databases is such a product. As it goes, this was one of the product team's ideas too.
 
 ## Step 2: defining the API
 
 Working with product and engineering, I defined the API functionality customers had expressed:
 
-* **Run multiple file conversions at once**. Customers often export from multiple sources, convert using the product, and then add to their SQL database. Using the product interface means this is a tedious and manual process. The API should enable programmatic access.
+* **Run multiple file conversions at once**. Customers often export from multiple sources, convert using the product, and then add to their SQL database. Using the product interface means this is a tedious and manual process. The API should enable multiple concurrent conversions.
 
 * **Convert big files**. Customers chunk files in the gigabytes into smaller versions so the interface can handle them. The API should remove the need to chunk files.
 
@@ -39,7 +41,7 @@ Once the beta was over and the product team was happy to release, it was launch 
 
 Users of this product are mainly developers or other tech savvy users. More specifically, those working with SQL databases.
 
-The API launch revolved around a featured [Product Hunt](https://www.producthunt.com/posts/sqlizer-api) hunt. While Product Hunt has a broad audience of designers, developers, marketers, and people generally interested in tech, the appeal of the product was wide enough to warrant a Product Hunt launch.
+The API launch revolved around a featured [Product Hunt](https://www.producthunt.com/posts/sqlizer-api) hunt. Product Hunt has a broad audience of designers, developers, marketers, and people generally interested in tech, so the appeal of the product was wide enough to warrant a Product Hunt launch.
 
 Once the product had been hunted a concerted push across our mailing lists (including free, paid, current, and past users), relevant subreddits, HackerNews, and social media ensured considerable coverage on the day. For the weeks afterward the push continued with coverage in [DBWeekly](https://dbweekly.com), content across blogs, social, and the long tail of search.
 

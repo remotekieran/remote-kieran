@@ -2,7 +2,7 @@
 title: "Positioning a mining pool"
 date: 2018-05-08
 description: "Creating an identity and unique position in a fast-moving market of skeptical users."
-showDate: true
+showDate: false
 draft: false
 tags: ["product strategy", "pricing"]
 ---
@@ -22,7 +22,7 @@ After working through some ideas they settled on setting up a mining pool on one
 I approached this product like any other by following a go-to-market process:
 
 1. Market and customer research to identify underserved areas and pain points
-2. Jobs people need to complete and general themes
+2. Jobs customers need to complete and general themes
 3. User personas based on jobs and themes
 4. Positioning, messaging, value proposition
 5. Launch and marketing plan
@@ -66,7 +66,7 @@ But there are also many nuances to why people mine and what they want from their
 
 A compelling overarching job-to-be-done for the mining pool emerged:
 
-> When I mine $currency I want to contribute to the overall health of the network while earning a reliable income and remaining anonymous.
+> When I mine XMR I want to contribute to the overall health of the network while earning a reliable income and remaining anonymous.
 
 To inform messaging I broke this job down into smaller jobs and created user personas based around them.
 

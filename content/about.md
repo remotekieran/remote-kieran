@@ -29,9 +29,11 @@ I took off for Asia, building on my existing freelance client base and starting 
 
 For the next two years I headed up product marketing at a big data and analytics <a href="https://weared4.com" target="_blank">software studio</a>, where I led three SaaS products to market that focused on helping people <a href="https://prodlytic.com" target="_blank">collect</a>, <a href="https://querytreeapp.com" target="_blank">report on</a>, and <a href="https://sqlizer.io" target="_blank">migrate</a> data. With the freedom I was given I increased website visits and sign ups by 30%, [10xed MRR](/work/maximising-revenue/), and led a beta and product launch for a [ SaaS product](/work/new-saas/).
 
+<img src="/images/block4-2.png">
+
 I was also lucky enough to experience a truly remote-first work culture here. I cotinued to travel to <a href="https://nomadlist.com/@kks" target="_blank">new places</a> every few months with the freedom that culture gave me. I sometimes wrote about the <a href="/blog/remote-company-culture/">life of remote work</a>. I learned a great deal about working in a remote cross-functional, motivating myself on a daily basis, and overcoming the limitations of remote work with clear communication.
 
-<img src="/images/block4-2.png">
+## Now
 
 Nowadays I'm a product marketer at [Ably](https://www.ably.io). I live in East London, riding up and down Regent's Canal when the weather permits. I take pictures of buildings and people. I think and write about APIs, software products, and markets.
 
