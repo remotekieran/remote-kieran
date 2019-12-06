@@ -5,9 +5,11 @@ description: "Kieran is a writer and full-stack product marketer. He's intereste
 image:
     - /images/block4.png
 ---
-I'm a writer and product marketer currently helping to grow <a href="https://www.ably.io" target="_blank">Ably</a> - a realtime API and cloud infrastructure provider. We recently closed our Series A 🥳.
+I'm a writer and product marketer. Over the past six years I’ve travelled to more than [30 cities](https://nomadlist.com/@kks) while nurturing a love for [xiaolongbao](https://en.wikipedia.org/wiki/Xiaolongbao). I'm currently leading product marketing at <a href="https://www.ably.io" target="_blank">Ably</a> - a realtime API and cloud infrastructure provider. We recently closed our Series A 🥳.
 
-I work closely with engineering and product teams, as well as with senior management. I'm no engineer or designer but I have enough technical knowledge to be dangerous in a GitHub repo, I know what constitutes good UX, and I'm fascinated by all things tech.
+I work across engineering, product, and commercial teams as well as with senior management. I strive to unify market requirements, customer needs, and product capabilities into strong positioning, coherent narratives, and sucessful go-to-market strategies.
+
+I'm no engineer or designer but I have enough technical knowledge to be dangerous in a GitHub repo, I know what constitutes good UX, and I'm fascinated by all things tech.
 
 ## My early professional life
 
@@ -37,6 +39,6 @@ I was also lucky enough to experience a truly remote-first work culture here. I 
 
 ## Now
 
-Nowadays I'm a product marketer at [Ably](https://www.ably.io). I live in East London, riding up and down Regent's Canal when the weather permits. I take pictures of buildings and people. I think and [write about APIs](https://www.ably.io/blog/author/kieran/), software products, and markets.
+Nowadays I'm helping to grow [Ably](https://www.ably.io). I live in East London, riding up and down Regent's Canal when the weather permits. I take pictures of buildings and people. I think and [write about APIs](https://www.ably.io/blog/author/kieran/), software products, and markets.
 
 Hit me up @remotekieran on [Twitter](http://twitter.com/remotekieran), [Instagram](https://www.instagram.com/remotekieran), [LinkedIn](https://www.linkedin.com/in/remotekieran/), [GitHub](https://github.com/remotekieran).
