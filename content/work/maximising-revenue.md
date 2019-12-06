@@ -1,5 +1,5 @@
 ---
-title: "Maximising revenue, enhancing value"
+title: "10xing MRR while enhancing value"
 date: 2017-05-05
 description: ""
 showDate: false
