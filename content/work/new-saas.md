@@ -1,6 +1,6 @@
 ---
-title: "Building an analytics SaaS product from scratch"
-date: 2018-05-06
+title: "Building a SaaS product from scratch"
+date: 2018-02-01
 showDate: false
 draft: false
 tags: ["product strategy", "pricing"]
@@ -13,10 +13,19 @@ The software studio I was working for was trying to move from client revenue to 
 
 I've developed a five-part process for an end-to-end project like this:
 
-* Market research (health of the market, competitors, technical product requirements)
-* Customer research (finding pain points and the jobs-to-be-done, creating user personas)
-* Product identity (messaging, positioning, value propositions, tone of voice)
-* North star metric and designing onboarding around that to drive early growth
+* Market research
+  * Health of the market
+  * Competitors
+  * Technical product requirements
+* Customer research
+  * Finding pain points
+  * Crafting jobs-to-be-done
+  * Creating user personas
+* Product identity
+  * Positioning
+  * Messaging and value propositions
+  * Brand and tone of voice
+* North star metric and designing product onboarding around that to drive early growth
 * Running a beta and launching the first release
 
 ## Market research
@@ -32,12 +41,8 @@ I first looked at the overall state of the market:
 * Projected growth for the next three years
 * Innovations over the years and challenges to come as stated by existing companies, industry analysts, and industry reports
 
-<figure>
 <img src="/images/work/new-saas/quadrant.png">
-<figcaption>2018's Magic Quadrant for Analytics and BI platforms from Gartner's yearly industry report. Just one of the many industry reports I looked at during market research.</figcaption>
-</figure>
-
-&nbsp;
+_2018's Magic Quadrant for Analytics and BI platforms from Gartner's yearly industry report. Just one of the many industry reports I looked at during market research._
 
 ### Competitor research and product requirements
 
@@ -63,9 +68,9 @@ Next I carried out customer research:
 
 Research unearthed some common themes which I used to define a set of jobs that a new product analytics tool would meet. These jobs informed the first user personas and went on to guide the beta version of the product and marketing activity.
 
-> I always use the jobs to be done framework to create personas because it helps remove assumptions from marketing and keeps the message centered on overcoming problems.
+> I find the jobs to be done framework helpful for creating personas because it helps remove assumptions from marketing and keeps the message centered on overcoming problems.
 
-I presented the market and customer research to product and engineering. Despite the 'product' segment of anlaytics being one of the most competitive with extensive product capabilities needed in order to compete, the Directors decided to go ahead with the project.
+I presented the market and customer research to product and engineering. Despite the 'product' segment of anlaytics being one of the most competitive with extensive product capabilities needed in order to compete, and a suggestion to perhaps look at another market, the Directors decided to go ahead with the project.
 
 ## Product identity
 
@@ -94,8 +99,8 @@ At this stage the product was still in beta. Over the coming months I oversaw th
 
 * Sought out constant feedback on product usage and messaging with weekly questions like "What has the product helped you achieve this week?"
 * Relayed customer feedback to the product and engineering teams so they could iterate on the product
-* Constantly tweaked on the message based on user feedback and product changes
+* Constantly tweaked the message based on user feedback and product changes
 
-After a few months of beta the product idea had been validated. Product-market-fit was still elusive but there was enough to move forward. The product and engineering teams were happy with the stability of the product after some scary scaling issues during the beta. The product was ready for its first release and relaunch.
+After a few months of beta the product idea had been somewhat invalidated. The product and engineering teams had struggled with the stability of the product after some scary scaling issues during the beta. And, as research had found, this was a tough market to compete in with some powerful tools offering mature fetures.
 
-As of early 2018 I was no longer working on this product.
+As of early 2018 I was no longer working on this product. But the process of taking an idea, building it into an MVP, and launching taught me a great deal about product development, market requirements, customer research, and creating marketing campaigns.

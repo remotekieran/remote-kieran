@@ -1,5 +1,5 @@
 ---
-title: "work"
+title: "Work"
 date: 2018-05-08
 ---
 

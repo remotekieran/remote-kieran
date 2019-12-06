@@ -1,13 +1,13 @@
 ---
 title: "Positioning a new global company"
-date: 2018-05-02
+date: 2015-07-02
 showDate: false
 draft: false
 tags: ["company launch"]
 ---
 In 2015 during my stint as a Copywriter at an Antwerp [marketing and communications agency](http://pyramidion.be), I positioned a new global company. [WeEn](http://www.ween-semi.com), a joint venture between [NXP Semiconductors](https://www.nxp.com) and Beijing-based [JAC Capital](http://www.jaccapital.cn/en/), was to bridge the gap between the Asian and European bipolar semiconductor markets.
 
-> My task: put WeEn in a position to gain substantial market share in its early years.
+> My brief was to find the right positionining to enable WeEn to gain substantial market share in its early years.
 
 I produced comprehensive positioning that informed people across WeEn, from C-level executives to marketing managers, of it's position in the market, helping to align strategic and operational activities at all levels.
 
@@ -38,6 +38,6 @@ The agency, with over 25 years experience positioning products, had an excellent
 * Positioning statement
   * A single statement that sums up the position of WeEn
 
-Today, three years after crafting WeEn's positioning, you can still find the positioning statement [front and center](http://www.ween-semi.com/about.aspx):
+For four years my positioning stood front and center:
 
 ### WeEn: crafting the future of bipolar power.

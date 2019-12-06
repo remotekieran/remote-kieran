@@ -1,29 +1,36 @@
-baseurl                 = "http://remotekieran.com/"               # Your domain name. Must end with "/"
-languageCode            = "en-us"
-title                   = "Kieran Kilbride-Singh – Remote Writer and Marketer"
-theme                   = "sam"
-pygmentsStyle           = "manni"                     # https://help.farbox.com/pygments.html
-pygmentsCodefences      = true
-# googleAnalytics       = ""             # Tracking code, eg. "UA-111111111-1"
+baseurl                  = "https://remotekieran.com/"           # Your domain name. Must end with "/"
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "Kieran Kilbride-Singh | Writer and Product Marketer"
+theme                    = "sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
 
 [params]
-    dateform            = "Mon Jan 02, 2006"
-    dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
-    favicon             = "/sam.png"
-    homepage            = "home"                        # What to call the home page link
-    galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
-    clickablePhotos     = true                          # Allow links to the full size images
-    footerText          = ""
+    dateform             = "Jan 02 2006"
+    dateformfull         = "Jan 02 2006 15:04:05 EST"
+    favicon              = "kks.png"
+    homepage             = "home"                           # What to call the home page link
+    footerText           = "Current base: London, UK"
 
-# Metadata
-    description         = "Kieran is a writer and marketer with five years experience marketing B2B tech products. He's worked remotely for most of that time."            # Max 160 characters show in search results
-    twitterCard         = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
-    primaryImage        = "/sam.png"                     # Image that shows on Twitter cards and OpenGraph links
+# Metadata for Open Graph and Twitter
+    description          = "Kieran is a writer and full-stack marketer. He has extensive experience growing B2B tech products, mainly SaaS. Over the past few years he's specialised into product marketing for cloud infrastructure companies."               # Max 160 characters show in search results
+    images               = ["kks.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Kieran Kilbride-Singh | Writer and Produt Marketer"
 
 [[params.mainMenu]]
     link = "/about"
-    text = "who is kieran?"
+    text = "about"
+
+[[params.mainMenu]]
+    link = "/blog"
+    text = "blog"
 
 [[params.mainMenu]]
     link = "/work"
-    text = "previous work"
+    text = "work"
+
+[imaging]
+    quality = 75
