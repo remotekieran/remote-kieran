@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 description: ""
 date: {{ .Date }}
 showDate: true
-draft: flase
+draft: false
 tags: ["blog","story"]
 image:
     - /images/image.png
