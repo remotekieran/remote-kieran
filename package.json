@@ -1,5 +1,23 @@
 {
   "dependencies": {
-    "module": "postcss-cli@7.1.1",
-    "module": "autoprefixer@9.8.4" }
+    "module": "autoprefixer"
+  },
+  "name": "remote-kieran",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remotekieran/remote-kieran.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remotekieran/remote-kieran/issues"
+  },
+  "homepage": "https://github.com/remotekieran/remote-kieran#readme",
+  "description": ""
 }
