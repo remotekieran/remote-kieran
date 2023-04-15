@@ -18,7 +18,7 @@ pygmentsCodefences       = true
 # Metadata for Open Graph and Twitter
     description          = "Kieran is a marketing leader and digital nomad. For ten years he's driven awareness and adoption of developer tools and infrastructure with data at their core."               # Max 160 characters show in search results
     images               = ["kks.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "Kieran Kilbride-Singh | Marketing leader focused on PLG GTM strategy for developers""
+    title                = "Kieran Kilbride-Singh | Marketing leader focused on PLG GTM strategy for developers"
 
 [[params.mainMenu]]
     link = "/about"
