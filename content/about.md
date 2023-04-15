@@ -5,14 +5,14 @@ description: "Kieran is a GTM leader for developer produts. He's interested in h
 image:
     - /images/block4.png
 ---
-I'm a slacker, traveller, and storyteller at heart. But over the last ten years I've developed into a driven GTM leader for developer products at remote-first companies. Since 2015 I’ve travelled to more than [60 cities](https://nomadlist.com/@kks) while nurturing a love for [xiaolongbao](https://en.wikipedia.org/wiki/Xiaolongbao) and growing early stage stargups. I'm currently VP of Marketing at <a href="https://www.quix.io" target="_blank">Quix</a> - a Python stream processing platform for telemetry data and ML data pipelines. We recently closed our Series A 🥳.
+I'm a slacker, traveller, and storyteller at heart. But over the last ten years I've developed into a driven GTM leader for developer products at remote-first companies.
+
+Since 2015 I’ve travelled to more than [60 cities](https://nomadlist.com/@kks) while nurturing a love for [xiaolongbao](https://en.wikipedia.org/wiki/Xiaolongbao) and growing early stage startups. I'm currently VP of Marketing at <a href="https://www.quix.io" target="_blank">Quix</a>.
 
 I cut my marketing teeth writing freelance marketing strategy and copy during my BA and MSc degrees for beer and travel money. Deciding to focus on both working and travelling, I've spent a majority of my work life at remote-first early stage startups filling content, growth, and product marketing roles.
 
-From 2019-2023 I helped grow Ably from Seed (10 people) to Series B (150 people), ending my amazing time there as a Director of Product Marketing. I worked across leadership, marketing, DevRel, product, and sales teams to define and align on GTM strategies that delivered global growth. I was highly involved in building a written-first, remote-first, high-ownership company culture.
+From 2019-2023 I helped grow Ably from Seed (10 people) to Series B (150 people), ending my amazing time there as a Director of Product Marketing. I worked across the company to define and align on GTM strategies that delivered global growth. I helped build a written-first, remote-first, high-ownership culture.
 
-## Now
-
-Today I'm leading all things GTM at [Quix](https://www.quix.io) and helping once again to build a remote company. I'm noadding full-time with a 70/30 split between South East Asia and Europe. I like to get into nature, take pictures of buildings and people, and see what magic ChatGPT has for me. I think about software products and markets.
+Today I'm leading all things GTM and remote culture at [Quix](https://www.quix.io). I'm noadding full-time with a 70/30 split between South East Asia and Europe. I like to get into nature, take pictures of buildings and people, and see what magic ChatGPT has for me.
 
 Hit me up @remotekieran on [Twitter](http://twitter.com/remotekieran), [Instagram](https://www.instagram.com/remotekieran), [LinkedIn](https://www.linkedin.com/in/remotekieran/), [GitHub](https://github.com/remotekieran).
