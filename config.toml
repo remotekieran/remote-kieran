@@ -2,7 +2,7 @@ baseurl                  = "https://remotekieran.com/"           # Your domain n
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
-title                    = "Kieran Kilbride-Singh | Marketing leader focused on PLG GTM strategy for developers"
+title                    = "Kieran Kilbride-Singh | GTM leader for developer products"
 theme                    = "sam"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
@@ -16,21 +16,17 @@ pygmentsCodefences       = true
     footerText           = "Current base: Bangkok, Thailand"
 
 # Metadata for Open Graph and Twitter
-    description          = "Kieran is a marketing leader and digital nomad. For ten years he's driven awareness and adoption of developer tools and infrastructure with data at their core."               # Max 160 characters show in search results
+    description          = "Kieran is a GTM leader and digital nomad. For ten years he's driven awareness and adoption of developer tools and infrastructure with data at their core."               # Max 160 characters show in search results
     images               = ["kks.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "Kieran Kilbride-Singh | Marketing leader focused on PLG GTM strategy for developers"
+    title                = "Kieran Kilbride-Singh | GTM leader for developer products"
 
 [[params.mainMenu]]
     link = "/about"
     text = "about"
 
 [[params.mainMenu]]
-    link = "/blog"
-    text = "blog"
-
-[[params.mainMenu]]
-    link = "/work"
-    text = "work"
+    link = "/articles"
+    text = "articles"
 
 [imaging]
     quality = 75
