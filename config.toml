@@ -21,12 +21,12 @@ pygmentsCodefences       = true
     title                = "Kieran Kilbride-Singh | GTM leader for developer products"
 
 [[params.mainMenu]]
-    link = "/about"
-    text = "about"
-
-[[params.mainMenu]]
     link = "/articles"
     text = "articles"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "about"
 
 [imaging]
     quality = 75
